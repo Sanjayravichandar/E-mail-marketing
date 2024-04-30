@@ -20,8 +20,7 @@
 #### For marketers, it's important to have email marketing software that's easy to use. This means being able to navigate the software, create campaigns, and check results without needing a lot of technical skills. 
 #### Look for software with simple dashboards, drag-and-drop tools, and clear menus to make creating and managing email campaigns straightforward. Also, having customizable templates, ready-made automation, and good reporting tools can help make things even easier.
  
-#### On the customer side, emails must be easy to interact with. This means recipients should be able to open emails and take action, like buying something or engaging with your brand, without any hassle.
- #### Choose software that provides mobile-friendly email templates so that emails look good on phones and tablets. Also, look for features like personalized content, where you can customize emails based on what each recipient likes, to make emails more relevant and engaging.
+#### On the customer side, emails must be easy to interact with. This means recipients should be able to open emails and take action, like buying something or engaging with your brand, without any hassle
  
 # **Conclusion:**
 #### In conclusion, when picking email marketing software for your e-commerce business, it's crucial to focus on simplicity and a smooth experience. Customers should find emails easy to read and interact with on their phones, with personalized content that makes them want to buy. By choosing software that's user-friendly for both marketers and customers, you can boost your e-commerce business and reach your goals more effectively.
